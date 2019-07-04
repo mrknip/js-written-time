@@ -1,0 +1,17 @@
+{
+  "name": "js-written-time",
+  "version": "1.0.0",
+  "description": "Displays times in natural langauge",
+  "main": "./src/index.js",
+  "author": "Drew Johnson <drew.johnson@mangahigh.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.0.1",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.1"
+  },
+  "scripts": {
+    "test": "nyc mocha"
+  }
+}
