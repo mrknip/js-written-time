@@ -1,6 +1,6 @@
-js-written-time
+## js-written-time
 
-Takes a time of format HH:mm and turns it into locale-specific natural language representation of clock time
+Takes a time of format `HH:mm` and turns it into language-specific natural language representation of clock time
 
 ```
 getWrittenTime('1:10') => ten past one

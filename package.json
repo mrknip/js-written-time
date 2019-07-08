@@ -11,6 +11,14 @@
     "mocha": "^6.1.4",
     "nyc": "^14.1.1"
   },
+  "homepage": "https://github.com/mrknip/js-written-time#readme",
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/mrknip/js-written-time.git"
+ },
+ "bugs": {
+   "url":"https://github.com/mrknip/js-written-time/issues"
+ },
   "scripts": {
     "test": "nyc mocha"
   }
